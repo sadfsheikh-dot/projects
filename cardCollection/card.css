@@ -1,20 +1,4 @@
-* {
-    margin: 0; /*   slect all elements*/
-    padding: 0;
-    box-sizing: border-box; 
-}
-html, body {
-    width: 100%;
-    height: 100%;
-    background-color: rgb(221, 195, 161);
-    
-}   
-h1{
-    text-align: center;
-    margin-top: 20px;
-    font-family: 'Courier New', Courier, monospace;
-    color: #2b0707;                                            
-}
+hgfygggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
 .card{
     position:absolute; /*not dependent on parent*/
     /*  3 lines are used to take elements center -> if i take in main with 
